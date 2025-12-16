@@ -36,7 +36,25 @@ To get started with the Jupyter notebooks, follow these steps:
    git clone https://github.com/HansDoh2404/learning_pyspark.git
    ```
 
-2. Open the notebook you want to work on and start experimenting with PySpark.
+2. Move into the directory:
+
+   ```bash
+   cd learn_pyspark
+   ```
+
+3. Create a virtual environment
+
+   ```bash
+   python -m venv .env
+   ```
+
+4. Install required libraries
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. Open the notebook you want to work on and start experimenting with PySpark.
 
 ## Notebook Descriptions
 
@@ -67,4 +85,4 @@ These notebooks are meant for self-learning and practice to gain a deeper unders
 
 Contributor : [@Hans Ariel](https://www.linkedin.com/in/hans-ariel-doh-59a31a2ba/) - hansearieldo@gmail.com
 <br />
-Project link : https://github.com/HansDoh2404/learning_pyspark.git 
+Course link : https://github.com/HansDoh2404/learning_pyspark.git 
